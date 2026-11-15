@@ -5,7 +5,8 @@ Rune-Reflector (룬 리플렉터)
 둠강선 팀
 팀원 : 컴퓨터인공지능학부 202602396 최진경
 
-다운로드 링크 : https://github.com/jinrud/craft-on-team-choijinkyung/releases/tag/1.0
+다운로드 링크(MacOS) : https://github.com/jinrud/craft-on-team-choijinkyung/releases/tag/1.0
+다운로드 링크(Windows) : https://github.com/jinrud/craft-on-team-choijinkyung/releases/tag/1.0.1
 
 게임 소개
 받아치기(패링) 액션 로그라이트
